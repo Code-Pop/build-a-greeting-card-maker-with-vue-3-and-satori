@@ -1,0 +1,22 @@
+{
+  "name": "build-a-greeting-card-maker-with-vue-3-and-satori",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@vue/server-renderer": "^3.5.13",
+    "@vueuse/core": "^12.0.0",
+    "nuxt": "^3.14.1592",
+    "satori": "^0.12.0",
+    "satori-html": "^0.3.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.2"
+  }
+}
