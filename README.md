@@ -1,1 +1,3 @@
 For the creative developers out there seeking a festive project that leverages your coding skills, let’s build a digital Holiday Greeting Card that you can customize, add your own photo, and instantly download. We'll be using some cutting-edge web technologies to make this happen, and along the way, you'll learn about graphics generation, several cool packages, and some neat Vue 3 tricks.
+
+This repository is for learning purposes only, it's not for production use.
